@@ -43,5 +43,6 @@ ____
 - main – Основная функция, в которой и происходит вся работа с базой данных
 
 Пример работы с программой:
-src="https://cdn.discordapp.com/attachments/986664884194377728/986665034421764107/unknown.png" /></a>
-src="https://cdn.discordapp.com/attachments/986664884194377728/986666300254335067/unknown.png" /></a>
+
+![Alt text](https://cdn.discordapp.com/attachments/986664884194377728/986665034421764107/unknown.png "Optional title")
+![Alt text](https://cdn.discordapp.com/attachments/986664884194377728/986666300254335067/unknown.png "Optional title")

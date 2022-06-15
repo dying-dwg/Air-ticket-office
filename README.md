@@ -44,5 +44,5 @@ ____
 
 Пример работы с программой:
 
-![Alt text](https://cdn.discordapp.com/attachments/986664884194377728/986665034421764107/unknown.png "Optional title")
-![Alt text](https://cdn.discordapp.com/attachments/986664884194377728/986666300254335067/unknown.png "Optional title")
+<img src="https://cdn.discordapp.com/attachments/986664884194377728/986665034421764107/unknown.png" width="600">
+<img src="https://cdn.discordapp.com/attachments/986664884194377728/986666300254335067/unknown.png" width="600">
